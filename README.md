@@ -1,4 +1,4 @@
-<img width="314" height="308" alt="image" src="https://github.com/user-attachments/assets/46c698a0-8644-45b6-9814-a4d85dd95dac" /># EXPERIMENT – 5
+# EXPERIMENT – 5
 
 # Image Smoothing and Sharpening Using OpenCV
 
