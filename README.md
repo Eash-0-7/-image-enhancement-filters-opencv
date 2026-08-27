@@ -77,10 +77,10 @@ Display the original and processed images for comparison.
 # Program
 
 ### NAME
-**SABARISH A**
+**EASHWAR M**
 
 ### REG. NO.
-**212225230232**
+**212225240039**
 
 ---
 
